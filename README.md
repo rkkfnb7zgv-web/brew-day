@@ -1,6 +1,6 @@
 # Red Rock Schwarzbier Brew Day Checklist
 
-A simple offline-first web app that mirrors the printed brew day checklist. Tick off tasks, add comments, see progress, export when done. Works on iPhone, Android, MacBook — anywhere a browser runs.
+A simple offline-first web app that mirrors the printed brew day checklist. Tick off taskz, add comments, see progress, export when done. Works on iPhone, Android, MacBook — anywhere a browser runs.
 
 ## Files
 
